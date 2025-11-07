@@ -1,6 +1,5 @@
 ## Hello familia  ✌ 
-Sou estudante de programação e maquinas automatizadas, misturei os dois mundos da mecanica e TI, 
-        Qual que eu prefiro ? não sei🤔 talvez eu tenha que misturar pepsi e coca. 
+Sou estudante de programação e de máquinas automatizadas, o que significa que vivo tentando misturar o mundo da mecânica com o universo da TI. Às vezes eu programo codigos em computadores, outras vezes tento entender por que a engrenagem não gira do jeito que eu quero. Qual eu prefiro? 🤔 Confesso que ainda não descobri… talvez seja como misturar Pepsi com Coca: às vezes dá certo, às vezes só vira uma bagunça com um gosto muito bom! Mas no fim, adoro explorar os dois mundos e ver onde essa mistura louca vai dar.
 <div style="display: inline_block"><br>
  <img align="center" alt="Rafa-HTML" height="100" width="100" src="https://media.tenor.com/9nBgEcu8e2IAAAAj/charizard-pokemon.gif">
        <img align="center" alt="Rafa-HTML" height="100" width="100" src="https://media.tenor.com/Mx7NYmMM2wIAAAAj/blastoise-pokemon-pokemon.gif">
@@ -15,12 +14,26 @@ Sou estudante de programação e maquinas automatizadas, misturei os dois mundos
 </div>
 
 ## Minhas espercialidades
-                                                 - ⚙️ Programador de Maquina SIEMENS
-                                                       - 💻 Estudande FULL STACK
-                                                            - 💾 C# Arduino 
-                                                            - BR/JP プログラマー
-                                                        - 🐲 Usuario Kali linux
+- ⚙️ Programador de Maquina SIEMENS
+- 💻 Estudande FULL STACK
+- 💾 C# Arduino
+-   BR/JP プログラマー
+- 🐲 Usuario Kali linux
+-   💿CLP programer 
+-  🖥️vocação em hardware
+- 🌏  RUMO AO SS+
 
+## PROFESSORES⭐
+- MAYCON <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
+- IZAIAS  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif">
+- ANA <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+- RICARDO <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667">
+- MATHEUS<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+
+
+##
   ![Matheus417k's Stats](https://github-readme-stats.vercel.app/api?username=Matheus417k&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
   ![Matheus417k's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus417k&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
 <div style="display: inline_block"><br>
@@ -30,6 +43,13 @@ Sou estudante de programação e maquinas automatizadas, misturei os dois mundos
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://camo.githubusercontent.com/740b035ed7f2f9a189b337373e57b98f8c3d61d2fbbb7d7872a6563646a20abc/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f707974686f6e2d69636f6e2e737667">
+   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://camo.githubusercontent.com/3ed284d0ecd9fcccabf0711e2cad6bbec412e417bcfb1da25502a1ed9adbaf78/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6d7973716c2d69636f6e2e737667">
+   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Cassandra_logo.svg/2560px-Cassandra_logo.svg.png">
+ <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://camo.githubusercontent.com/a8c24c0c69005509721bcfa06b7818b2a732447e11f1a36c8cbda6937e533cd3/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6a6176612d69636f6e2e737667">
+
+ 
+ 
 <img align="right" alt="Rafa-Csharp" height = "200" width= "200" src="https://media.tenor.com/igjZ6O0mymMAAAAi/brawl-stars-brawl-star.gif">
 
  
