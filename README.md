@@ -52,9 +52,21 @@ Sou estudante de programação e de máquinas automatizadas, o que significa que
  
 <img align="right" alt="Rafa-Csharp" height = "200" width= "200" src="https://media.tenor.com/igjZ6O0mymMAAAAi/brawl-stars-brawl-star.gif">
 
+
+
  
 </div>
 
+
+<div>
+ #
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
          
 
