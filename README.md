@@ -34,8 +34,8 @@ Sou estudante de programação e de máquinas automatizadas, o que significa que
 
 
 ##
-  ![matheus417k's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus417k&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-  ![matheus417k's Stats](https://github-readme-stats.vercel.app/api?username=matheus417k&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+ ![matheus417k's Stats](https://github-readme-stats.vercel.app/api?username=matheus417k&theme=dark&show_icons=true&hide_border=true&count_private=true)
+ ![matheus417k's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus417k&theme=dark&show_icons=true&hide_border=true&layout=compact)
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  
