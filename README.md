@@ -13,7 +13,7 @@ Sou estudante de programação e de máquinas automatizadas, o que significa que
  
 </div>
 
-## Minhas espercialidades
+## Minhas especialidades
 - ⚙️ Programador de Maquina SIEMENS
 - 💻 Estudande FULL STACK
 - 💾 C# Arduino
