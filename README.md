@@ -4,7 +4,7 @@
 
 Sou estudante de **Programação** e **Máquinas Automatizadas**, sempre buscando unir o universo da tecnologia com o mundo industrial.
 
-Enquanto alguns escolhem entre software ou automação, eu resolvi estudar os dois. 😎
+Enquanto alguns escolhem entre software ou automação, eu resolvi estudar os dois. 
 
 Às vezes estou criando APIs e aplicações web, outras vezes programando CLPs Siemens ou tentando descobrir por que uma máquina resolveu parar de funcionar justamente quando tudo estava funcionando perfeitamente.
 
@@ -23,7 +23,7 @@ Idiomas: Português | 日本語 (Aprendendo)
 Sistema Operacional: Linux 🐧
 Objetivo: Full Stack + Automação Industrial
 Status: Coding...
-Rank Atual: A+
+Rank Atual: B
 Meta: SS+
 ```
 
@@ -191,7 +191,7 @@ C#              ██░░░ 20%
 MySQL           ████████░░ 80%
 Linux           █████░ 50%
 Automação       ██████████ 100%
-Siemens     ██████████ 100%
+Siemens         ██████████ 100%
 ```
 
 ---
@@ -267,19 +267,6 @@ Building...
 Evolving...
 ```
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus417k&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus417k&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
