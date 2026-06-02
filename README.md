@@ -46,98 +46,158 @@ Meta: SS+
 
 # 🤖 Tecnologias
 
+<h1 align="center">⚡ TechDex - Minha Equipe Tecnológica ⚡</h1>
+
 <table align="center">
 
 <tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70"><br>
-HTML5
+<td align="center" width="180">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" />
+<br><br>
+<b>JavaScript</b><br>
+Lv. 60 ⚡
 </td>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70"><br>
-CSS3
+<td align="center" width="180">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70">
+<br><br>
+<b>HTML5</b><br>
+Lv. 80 🌐
 </td>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="70"><br>
-JavaScript
+<td align="center" width="180">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70">
+<br><br>
+<b>CSS3</b><br>
+Lv. 90 🎨
 </td>
 
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="70"><br>
-TypeScript
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="70"><br>
-React
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70"><br>
-Node.js
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="70"><br>
-PHP
-</td>
-
-<td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="70"><br>
-Bootstrap
+<td align="center" width="180">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="70" />
+<br><br>
+<b>TypeScript</b><br>
+Lv. 35 🔷
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="70"><br>
-C#
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="70" />
+<br><br>
+<b>React</b><br>
+Lv. 60 ⚛️
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70"><br>
-Java
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70">
+<br><br>
+<b>Node.js</b><br>
+Lv. 55 🌱
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70"><br>
-Python
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="70" />
+<br><br>
+<b>C#</b><br>
+Lv. 40 🔥
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="70"><br>
-Arduino
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="70" />
+<br><br>
+<b>Java</b><br>
+Lv. 45 🐉
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="70"><br>
-MySQL
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="70" />
+<br><br>
+<b>Python</b><br>
+Lv. 50 🐍
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70"><br>
-MongoDB
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="70" />
+<br><br>
+<b>MySQL</b><br>
+Lv. 85 💾
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70"><br>
-Git
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70" />
+<br><br>
+<b>MongoDB</b><br>
+Lv. 25 🍃
 </td>
 
 <td align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70"><br>
-Linux
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70">
+<br><br>
+<b>Linux</b><br>
+Lv. 80 🐧
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="70" />
+<br><br>
+<b>Arduino</b><br>
+Lv. 90 🤖
+</td>
+
+<td align="center">
+ <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Siemens-logo.svg/1280px-Siemens-logo.svg.png" widht= "70"/>
+<br><br>
+<b> Siemens</b><br>
+Lv. 100
+</td>
+
+<td align="center">
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/d/dd/WEG_Equipamentos_El%C3%A9tricos.svg" widht= "70" height="70"/>
+<br><br>
+<b>Automação</b><br>
+Lv. 100
+</td>
+
+<td align="center">
+<img src="https://media1.giphy.com/avatars/asusrogde/SjKaWmSyysV2.gif" width="100" height="100">
+<br><br>
+<b>Hardware </b><br>
+Lv. 100
 </td>
 </tr>
 
 </table>
 
+<br>
+
+<div align="center">
+
+## 🏆 Tecnologias Capturadas
+
+```txt
+⚡ JavaScript    ██████ 60%
+🌐 HTML5         ████████ 80%
+🎨 CSS3          █████████ 90%
+🔷 TypeScript    ███ 35%
+⚛️ React         ██████ 60%
+🌱 Node.js       █████ 55%
+🔥 C#            ████ 40%
+🐉 Java          █████ 45%
+🐍 Python        ███████░░░ 50%
+💾 MySQL         ████████░░ 85%
+🍃 MongoDB       ███████░░░ 25%
+🐧 Linux         █████████░ 80%
+🤖 Arduino       ████████░░ 90%
+⚙️ CLP Siemens   ██████████ 100%
+🏭 Automação     ██████████ 100%
+🖥️ Hardware      █████████░ 100%
+```
+
+</div>
 ---
 
 # 🏭 Especialidades
@@ -178,23 +238,7 @@ Linux
 
 </table>
 
----
 
-# 📈 Skills
-
-```txt
-HTML/CSS        ██████████ 100%
-JavaScript      █████████░ 90%
-React           ███░░ 30%
-Node.js         ███████░░░ 70%
-C#              ██░░░ 20%
-MySQL           ████████░░ 80%
-Linux           █████░ 50%
-Automação       ██████████ 100%
-Siemens         ██████████ 100%
-```
-
----
 
 # ⚙️ Minhas Ferramentas
 
