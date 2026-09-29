@@ -55,28 +55,28 @@ Meta: SS+
 <img src="https://techstack-generator.vercel.app/js-icon.svg" width="70" />
 <br><br>
 <b>JavaScript</b><br>
-Lv. 60 ⚡
+
 </td>
 
 <td align="center" width="180">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70">
 <br><br>
 <b>HTML5</b><br>
-Lv. 80 🌐
+
 </td>
 
 <td align="center" width="180">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="70">
 <br><br>
 <b>CSS3</b><br>
-Lv. 90 🎨
+
 </td>
 
 <td align="center" width="180">
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="70" />
 <br><br>
 <b>TypeScript</b><br>
-Lv. 35 🔷
+
 </td>
 </tr>
 
@@ -85,28 +85,28 @@ Lv. 35 🔷
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="70" />
 <br><br>
 <b>React</b><br>
-Lv. 60 ⚛️
+
 </td>
 
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="70">
 <br><br>
 <b>Node.js</b><br>
-Lv. 55 🌱
+
 </td>
 
 <td align="center">
 <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="70" />
 <br><br>
 <b>C#</b><br>
-Lv. 40 🔥
+
 </td>
 
 <td align="center">
 <img src="https://techstack-generator.vercel.app/java-icon.svg" width="70" />
 <br><br>
 <b>Java</b><br>
-Lv. 45 🐉
+
 </td>
 </tr>
 
@@ -115,28 +115,28 @@ Lv. 45 🐉
 <img src="https://techstack-generator.vercel.app/python-icon.svg" width="70" />
 <br><br>
 <b>Python</b><br>
-Lv. 50 🐍
+
 </td>
 
 <td align="center">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="70" />
 <br><br>
 <b>MySQL</b><br>
-Lv. 85 💾
+
 </td>
 
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="70" />
 <br><br>
 <b>MongoDB</b><br>
-Lv. 25 🍃
+
 </td>
 
 <td align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="70">
 <br><br>
 <b>Linux</b><br>
-Lv. 80 🐧
+
 </td>
 </tr>
 
@@ -145,28 +145,28 @@ Lv. 80 🐧
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="70" />
 <br><br>
 <b>Arduino</b><br>
-Lv. 90 🤖
+
 </td>
 
 <td align="center">
  <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Siemens-logo.svg/1280px-Siemens-logo.svg.png" widht= "70"/>
 <br><br>
 <b> Siemens</b><br>
-Lv. 100
+
 </td>
 
 <td align="center">
   <img src= "https://upload.wikimedia.org/wikipedia/commons/d/dd/WEG_Equipamentos_El%C3%A9tricos.svg" widht= "70" height="70"/>
 <br><br>
 <b>Automação</b><br>
-Lv. 100
+
 </td>
 
 <td align="center">
 <img src="https://media1.giphy.com/avatars/asusrogde/SjKaWmSyysV2.gif" width="100" height="100">
 <br><br>
 <b>Hardware </b><br>
-Lv. 100
+
 </td>
 </tr>
 
@@ -176,28 +176,7 @@ Lv. 100
 
 <div align="center">
 
-## 🏆 Tecnologias Capturadas
 
-```txt
-⚡ JavaScript    ██████ 60%
-🌐 HTML5         ████████ 80%
-🎨 CSS3          █████████ 90%
-🔷 TypeScript    ███ 35%
-⚛️ React         ██████ 60%
-🌱 Node.js       █████ 55%
-🔥 C#            ████ 40%
-🐉 Java          █████ 45%
-🐍 Python        ███████░░░ 50%
-💾 MySQL         ████████░░ 85%
-🍃 MongoDB       ███████░░░ 25%
-🐧 Linux         █████████░ 80%
-🤖 Arduino       ████████░░ 90%
-⚙️ CLP Siemens   ██████████ 100%
-🏭 Automação     ██████████ 100%
-🖥️ Hardware      █████████░ 100%
-```
-
-</div>
 ---
 
 # 🏭 Especialidades
@@ -283,6 +262,7 @@ Projetos utilizando sensores, relés e automação residencial.
 | ANA | HTML  |
 | RICARDO | Banco de Dados  |
 | MATHEUS | CSS  |
+| FLORISVALDO | TESTE DE SOFTWARE  |
 
 ---
 
@@ -319,28 +299,6 @@ Evolving...
 <img src="https://streak-stats.demolab.com?user=matheus417k&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# 🎯 Objetivos
-
-```txt
-[✓] HTML
-[✓] CSS
-[✓] JavaScript
-[✓] Git e GitHub
-[✓] Banco de Dados
-
-[⚙️] React
-[⚙️] Node.js
-[⚙️] APIs REST
-[⚙️] Automação Industrial
-
-[🎯] Full Stack Developer
-[🎯] Especialista Siemens
-[🎯] Fluência JP-BR
-[🎯] Engenheiro de Automação
-```
 
 ---
 
